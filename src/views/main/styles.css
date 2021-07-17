@@ -1,0 +1,51 @@
+main {
+    display: flex;
+    flex-direction: column;
+    max-height: 1080px;
+    max-width: 1200px;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    padding: 40px 10px;
+}
+
+main table tr:nth-child(even) {
+    background-color: #F8F8F8;
+}
+
+tr#todos {
+    height: 50px;
+    font-size: 18px;
+    background: #EFF1F1;
+}
+
+main table {
+    border: none;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+main h1 {
+    font-size: 26px;
+    font-weight: 500;
+    color: #000;
+    margin-bottom: 60px;
+}
+
+main button {
+    margin: auto;
+    width: 216px;
+    height: 42px;
+    font-size: 16px;
+    outline: none;
+    border: none;
+    border-radius: 200px;
+    background: #6B7375;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 40px;
+}
+
+main button:active{
+    transform: translateY(2px);
+}

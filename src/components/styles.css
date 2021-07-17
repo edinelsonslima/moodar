@@ -1,0 +1,34 @@
+.title-row {
+    font-weight: 600;
+    padding-left: 18px;
+    cursor: pointer;
+}
+
+.icon-seta {
+    margin-left: 5px;
+}
+
+td {
+    height: 41px;
+    padding-left: 22px;
+}
+
+td.check {
+    padding-left: 0;
+}
+
+td.check input {
+    outline: none;
+    border: none;
+    width: 18px;
+    height: 18px
+}
+
+main table tr td:first-child, label {
+    text-align: left;
+}
+
+.recolher {
+    display: none;
+    transition: all 500ms;
+}
