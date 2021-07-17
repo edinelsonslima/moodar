@@ -1,3 +1,64 @@
+<div align="center">
+  <img src="https://www.selfitacademias.com.br/wp-content/uploads/2020/07/Moodar_Logo-300x88.png">
+</div>
+<img src="./moodar.gif"/>
+#
+<br>
+
+<h2 align="center">Tecnologias usadas</h2>
+<div align="center">
+  <img align="center" alt="Edinelson-Js" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Edinelson-HTML" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Edinelson-CSS" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Edinelson-React" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </div>
+<br/>
+<br/>
+<br/>
+
+## Aplição desenvolvida para o desafio tecnico da moodar
+   - A aplicação simula uma tabela de permissões representadas pelos checkbox
+   - Ao clicar no botão **Cadastrar** vai ser informado no **console do navegador** quais os chekbox foram marcados
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<hr/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
